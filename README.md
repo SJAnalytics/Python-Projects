@@ -1,6 +1,6 @@
 # Python-Projects
 # Python Coding Project as Part of a Data Analytics Boot Camp
-# Objective: To conduct exploratory data analytics to derive insights and recommend strategies for better segmentation across product lines
+# Objective: To conduct exploratory data analytics to derive insights and recommend strategies for better segmentation across product lines for an online grocery app, Instacart
 ## Analysis Criteria: 
 1) Setup an organized analysis folder hierarchy for project completeness and efficiency   
 2) Use Jupyter notebooks and Anaconda Libraries manager for data analytics execution
