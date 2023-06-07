@@ -7,4 +7,4 @@
 3) Write scripts pertaining to clean-up of data, organization of columns and formatting, merging dataframes,
    creation of new variables and creation of visualizations for reporting to stakeholders.
 ## Final Report: To answer key questions posed by stakeholders in the organization.
-*See Attached Final Report
+*See Python Project File (contains scripts, final report, visualizations and procedures)
